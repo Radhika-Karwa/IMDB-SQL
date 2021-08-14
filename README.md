@@ -25,12 +25,12 @@ All these files are gzipped and in tsv (tab-separated-values) format.
 
 # Solution
 Design a relational database and store the IMDb data in it.\
-Model the database using an Entity-Relationship (ER) diagram.
-Performed normalisation and restructure the IMDb data using python.
-Created PostgreSQL database.
-Loaded data into the database.
-Added primary and foreign key constraints.
-Created database indexes.
+Model the database using an Entity-Relationship (ER) diagram.\
+Performed normalisation and restructure the IMDb data using python.\
+Created PostgreSQL database.\
+Loaded data into the database.\
+Added primary and foreign key constraints.\
+Created database indexes.\
 Asked questions of the IMDb data, so as to practice simple and more advanced SQL queries.
 
 # Logical Schema
