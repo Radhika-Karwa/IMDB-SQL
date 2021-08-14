@@ -22,3 +22,6 @@ All these files are gzipped and in tsv (tab-separated-values) format.
 2) Set appropriate data types and constraints2 per each column (n.b.: you may also modify columns with postgre built-in functions) -- use SQL only;
 3) Propose at least 3 meaningful views (CREATE VIEW) leveraging on JOINs and/or Aggregations -- use SQL only;
 4) Apply indexes to enhance the performance of your queries (use EXPLAIN ANALYZE to show performance improvements) -- use SQL only.
+
+![image](https://user-images.githubusercontent.com/20988056/129428966-db6b9660-61da-48d3-abb8-f315f2b89ce5.png)
+
